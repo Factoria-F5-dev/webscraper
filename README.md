@@ -78,3 +78,17 @@ ls /app/screenshots/
 ```
 
 Esta implementación permite un flujo de trabajo eficiente donde las capturas de pantalla se almacenan de forma organizada y son fácilmente accesibles tanto desde el contenedor como desde el sistema host.
+
+### 8. Más
+
+Anti-bots
+```python
+import undetected_chromedriver as uc
+pip install undetected-chromedriver
+# Se actualiza constantemente para adaptarse a los cambios en los mecanismos anti-bots de sitios como Google, LinkedIn, Instagram, etc.
+```
+
+ScraperAPI. Una API que gestiona rotación de IPs, resolución de CAPTCHAs, renderizado de JavaScript y manejo de headers automáticamente para que tu scraper no sea detectado.
+
+Scrapear sin permiso puede ser considerado ilegal si viola términos de uso o derechos de propiedad intelectual.
+Muchas webs incluyen términos de servicio que prohíben explícitamente el scraping. Scrapear sin permiso puede ser considerado ilegal si viola términos de uso o derechos de propiedad intelectual. Muchas webs usan este archivo para definir si permiten o no el scraping automatizado: robots.txt.
